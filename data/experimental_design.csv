@@ -1,0 +1,1681 @@
+participant,set,alternatif,pilihan,skill,bentuk_program,harga_program
+08xx336019xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx336019xxx,1,B,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx336019xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx336019xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx336019xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx336019xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx336019xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx336019xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx336019xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx336019xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx336019xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx336019xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx336019xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx336019xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx336019xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx336019xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx336019xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx336019xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx336019xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx336019xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx336019xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx336019xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx336019xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx336019xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx336019xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx336019xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx336019xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx336019xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx336019xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx336019xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx10001xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx10001xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx10001xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx10001xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx10001xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx10001xxx,2,C,1,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx10001xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx10001xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx10001xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx10001xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx10001xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx10001xxx,4,C,1,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx10001xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx10001xxx,5,B,1,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx10001xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx10001xxx,6,A,1,Perform Churn Analytics,Tutorial Based,450000
+08xx10001xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx10001xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx10001xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx10001xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx10001xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx10001xxx,8,A,1,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx10001xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx10001xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx10001xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx10001xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx10001xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx10001xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx10001xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx10001xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx56592xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx56592xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx56592xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx56592xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx56592xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx56592xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx56592xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx56592xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx56592xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx56592xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx56592xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx56592xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx56592xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx56592xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx56592xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx56592xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx56592xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx56592xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx56592xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx56592xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx56592xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx56592xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx56592xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx56592xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx56592xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx56592xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx56592xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx56592xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx56592xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx56592xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx391631xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx391631xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx391631xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx391631xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx391631xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx391631xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx391631xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx391631xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx391631xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx391631xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx391631xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx391631xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx391631xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx391631xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx391631xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx391631xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx391631xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx391631xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx391631xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx391631xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx391631xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx391631xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx391631xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx391631xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx391631xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx391631xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx391631xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx391631xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx391631xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx391631xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx21820xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx21820xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx21820xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx21820xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx21820xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx21820xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx21820xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx21820xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx21820xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx21820xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx21820xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx21820xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx21820xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx21820xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx21820xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx21820xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx21820xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx21820xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx21820xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx21820xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx21820xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx21820xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx21820xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx21820xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx21820xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx21820xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx21820xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx21820xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx21820xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx21820xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx8632xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx8632xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx8632xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx8632xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx8632xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx8632xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx8632xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx8632xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx8632xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx8632xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx8632xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx8632xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx8632xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx8632xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx8632xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx8632xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx8632xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx8632xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx8632xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx8632xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx8632xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx8632xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx8632xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx8632xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx8632xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx8632xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx8632xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx8632xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx8632xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx8632xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx67684xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx67684xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx67684xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx67684xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx67684xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx67684xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx67684xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx67684xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx67684xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx67684xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx67684xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx67684xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx67684xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx67684xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx67684xxx,5,C,1,Design AB Test Experimentation,Tutorial Based,300000
+08xx67684xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx67684xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx67684xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx67684xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx67684xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx67684xxx,7,C,1,Deploy Machine Learning Model,Tutorial Based,350000
+08xx67684xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx67684xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx67684xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx67684xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx67684xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx67684xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx67684xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx67684xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx67684xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx82419xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx82419xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx82419xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx82419xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx82419xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx82419xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx82419xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx82419xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx82419xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx82419xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx82419xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx82419xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx82419xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx82419xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx82419xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx82419xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx82419xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx82419xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx82419xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx82419xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx82419xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx82419xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx82419xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx82419xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx82419xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx82419xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx82419xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx82419xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx82419xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx82419xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx80690xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx80690xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx80690xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx80690xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx80690xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx80690xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx80690xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx80690xxx,3,B,1,Perform Customer Segmentation,Tutorial Based,450000
+08xx80690xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx80690xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx80690xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx80690xxx,4,C,1,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx80690xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx80690xxx,5,B,1,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx80690xxx,5,C,1,Design AB Test Experimentation,Tutorial Based,300000
+08xx80690xxx,6,A,1,Perform Churn Analytics,Tutorial Based,450000
+08xx80690xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx80690xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx80690xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx80690xxx,7,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx80690xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx80690xxx,8,A,1,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx80690xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx80690xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx80690xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx80690xxx,9,B,1,Design AB Test Experimentation,Tutorial Based,550000
+08xx80690xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx80690xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx80690xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx80690xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx911411xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx911411xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx911411xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx911411xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx911411xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx911411xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx911411xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx911411xxx,3,B,1,Perform Customer Segmentation,Tutorial Based,450000
+08xx911411xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx911411xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx911411xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx911411xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx911411xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx911411xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx911411xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx911411xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx911411xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx911411xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx911411xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx911411xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx911411xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx911411xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx911411xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx911411xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx911411xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx911411xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx911411xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx911411xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx911411xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx911411xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx23507xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx23507xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx23507xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx23507xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx23507xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx23507xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx23507xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx23507xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx23507xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx23507xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx23507xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx23507xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx23507xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx23507xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx23507xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx23507xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx23507xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx23507xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx23507xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx23507xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx23507xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx23507xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx23507xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx23507xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx23507xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx23507xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx23507xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx23507xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx23507xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx23507xxx,10,C,1,Perform Churn Analytics,Tutorial Based,500000
+08xx46530xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx46530xxx,1,B,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx46530xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx46530xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx46530xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx46530xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx46530xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx46530xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx46530xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx46530xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx46530xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx46530xxx,4,C,1,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx46530xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx46530xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx46530xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx46530xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx46530xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx46530xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx46530xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx46530xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx46530xxx,7,C,1,Deploy Machine Learning Model,Tutorial Based,350000
+08xx46530xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx46530xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx46530xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx46530xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx46530xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx46530xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx46530xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx46530xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx46530xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx14635xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx14635xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx14635xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx14635xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx14635xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx14635xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx14635xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx14635xxx,3,B,1,Perform Customer Segmentation,Tutorial Based,450000
+08xx14635xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx14635xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx14635xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx14635xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx14635xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx14635xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx14635xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx14635xxx,6,A,1,Perform Churn Analytics,Tutorial Based,450000
+08xx14635xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx14635xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx14635xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx14635xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx14635xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx14635xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx14635xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx14635xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx14635xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx14635xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx14635xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx14635xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx14635xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx14635xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx31265xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx31265xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx31265xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx31265xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx31265xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx31265xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx31265xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx31265xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx31265xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx31265xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx31265xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx31265xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx31265xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx31265xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx31265xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx31265xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx31265xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx31265xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx31265xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx31265xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx31265xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx31265xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx31265xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx31265xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx31265xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx31265xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx31265xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx31265xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx31265xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx31265xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx65636xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx65636xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx65636xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx65636xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx65636xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx65636xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx65636xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx65636xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx65636xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx65636xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx65636xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx65636xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx65636xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx65636xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx65636xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx65636xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx65636xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx65636xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx65636xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx65636xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx65636xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx65636xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx65636xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx65636xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx65636xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx65636xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx65636xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx65636xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx65636xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx65636xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx77007xxx,1,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx77007xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx77007xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx77007xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx77007xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx77007xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx77007xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx77007xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx77007xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx77007xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx77007xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx77007xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx77007xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx77007xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx77007xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx77007xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx77007xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx77007xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx77007xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx77007xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx77007xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx77007xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx77007xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx77007xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx77007xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx77007xxx,9,B,1,Design AB Test Experimentation,Tutorial Based,550000
+08xx77007xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx77007xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx77007xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx77007xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx20884xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx20884xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx20884xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx20884xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx20884xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx20884xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx20884xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx20884xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx20884xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx20884xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx20884xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx20884xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx20884xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx20884xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx20884xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx20884xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx20884xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx20884xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx20884xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx20884xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx20884xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx20884xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx20884xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx20884xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx20884xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx20884xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx20884xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx20884xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx20884xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx20884xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx13764xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx13764xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx13764xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx13764xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx13764xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx13764xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx13764xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx13764xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx13764xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx13764xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx13764xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx13764xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx13764xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx13764xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx13764xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx13764xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx13764xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx13764xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx13764xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx13764xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx13764xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx13764xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx13764xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx13764xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx13764xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx13764xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx13764xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx13764xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx13764xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx13764xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx06242xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx06242xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx06242xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx06242xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx06242xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx06242xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx06242xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx06242xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx06242xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx06242xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx06242xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx06242xxx,4,C,1,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx06242xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx06242xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx06242xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx06242xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx06242xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx06242xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx06242xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx06242xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx06242xxx,7,C,1,Deploy Machine Learning Model,Tutorial Based,350000
+08xx06242xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx06242xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx06242xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx06242xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx06242xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx06242xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx06242xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx06242xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx06242xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx87873xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx87873xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx87873xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx87873xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx87873xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx87873xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx87873xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx87873xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx87873xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx87873xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx87873xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx87873xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx87873xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx87873xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx87873xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx87873xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx87873xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx87873xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx87873xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx87873xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx87873xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx87873xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx87873xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx87873xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx87873xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx87873xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx87873xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx87873xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx87873xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx87873xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx56038xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx56038xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx56038xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx56038xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx56038xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx56038xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx56038xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx56038xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx56038xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx56038xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx56038xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx56038xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx56038xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx56038xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx56038xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx56038xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx56038xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx56038xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx56038xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx56038xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx56038xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx56038xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx56038xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx56038xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx56038xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx56038xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx56038xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx56038xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx56038xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx56038xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx45681xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx45681xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx45681xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx45681xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx45681xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx45681xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx45681xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx45681xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx45681xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx45681xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx45681xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx45681xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx45681xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx45681xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx45681xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx45681xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx45681xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx45681xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx45681xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx45681xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx45681xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx45681xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx45681xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx45681xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx45681xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx45681xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx45681xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx45681xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx45681xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx45681xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx08385xxx,1,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx08385xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx08385xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx08385xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx08385xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx08385xxx,2,C,1,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx08385xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx08385xxx,3,B,1,Perform Customer Segmentation,Tutorial Based,450000
+08xx08385xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx08385xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx08385xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx08385xxx,4,C,1,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx08385xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx08385xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx08385xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx08385xxx,6,A,1,Perform Churn Analytics,Tutorial Based,450000
+08xx08385xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx08385xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx08385xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx08385xxx,7,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx08385xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx08385xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx08385xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx08385xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx08385xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx08385xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx08385xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx08385xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx08385xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx08385xxx,10,C,1,Perform Churn Analytics,Tutorial Based,500000
+08xx24251xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx24251xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx24251xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx24251xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx24251xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx24251xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx24251xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx24251xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx24251xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx24251xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx24251xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx24251xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx24251xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx24251xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx24251xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx24251xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx24251xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx24251xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx24251xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx24251xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx24251xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx24251xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx24251xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx24251xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx24251xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx24251xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx24251xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx24251xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx24251xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx24251xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx76738xxx,1,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx76738xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx76738xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx76738xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx76738xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx76738xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx76738xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx76738xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx76738xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx76738xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx76738xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx76738xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx76738xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx76738xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx76738xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx76738xxx,6,A,1,Perform Churn Analytics,Tutorial Based,450000
+08xx76738xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx76738xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx76738xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx76738xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx76738xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx76738xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx76738xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx76738xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx76738xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx76738xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx76738xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx76738xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx76738xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx76738xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx0007xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx0007xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx0007xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx0007xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx0007xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx0007xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx0007xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx0007xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx0007xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx0007xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx0007xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx0007xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx0007xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx0007xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx0007xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx0007xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx0007xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx0007xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx0007xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx0007xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx0007xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx0007xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx0007xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx0007xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx0007xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx0007xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx0007xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx0007xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx0007xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx0007xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx04630xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx04630xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx04630xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx04630xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx04630xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx04630xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx04630xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx04630xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx04630xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx04630xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx04630xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx04630xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx04630xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx04630xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx04630xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx04630xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx04630xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx04630xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx04630xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx04630xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx04630xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx04630xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx04630xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx04630xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx04630xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx04630xxx,9,B,1,Design AB Test Experimentation,Tutorial Based,550000
+08xx04630xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx04630xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx04630xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx04630xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx66387xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx66387xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx66387xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx66387xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx66387xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx66387xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx66387xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx66387xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx66387xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx66387xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx66387xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx66387xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx66387xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx66387xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx66387xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx66387xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx66387xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx66387xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx66387xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx66387xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx66387xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx66387xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx66387xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx66387xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx66387xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx66387xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx66387xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx66387xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx66387xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx66387xxx,10,C,1,Perform Churn Analytics,Tutorial Based,500000
+08xx57787xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx57787xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx57787xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx57787xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx57787xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx57787xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx57787xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx57787xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx57787xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx57787xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx57787xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx57787xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx57787xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx57787xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx57787xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx57787xxx,6,A,1,Perform Churn Analytics,Tutorial Based,450000
+08xx57787xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx57787xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx57787xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx57787xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx57787xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx57787xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx57787xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx57787xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx57787xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx57787xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx57787xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx57787xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx57787xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx57787xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx51816xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx51816xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx51816xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx51816xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx51816xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx51816xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx51816xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx51816xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx51816xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx51816xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx51816xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx51816xxx,4,C,1,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx51816xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx51816xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx51816xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx51816xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx51816xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx51816xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx51816xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx51816xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx51816xxx,7,C,1,Deploy Machine Learning Model,Tutorial Based,350000
+08xx51816xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx51816xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx51816xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx51816xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx51816xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx51816xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx51816xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx51816xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx51816xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx10194xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx10194xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx10194xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx10194xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx10194xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx10194xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx10194xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx10194xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx10194xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx10194xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx10194xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx10194xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx10194xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx10194xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx10194xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx10194xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx10194xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx10194xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx10194xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx10194xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx10194xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx10194xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx10194xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx10194xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx10194xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx10194xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx10194xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx10194xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx10194xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx10194xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx32048xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx32048xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx32048xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx32048xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx32048xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx32048xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx32048xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx32048xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx32048xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx32048xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx32048xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx32048xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx32048xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx32048xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx32048xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx32048xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx32048xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx32048xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx32048xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx32048xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx32048xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx32048xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx32048xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx32048xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx32048xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx32048xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx32048xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx32048xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx32048xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx32048xxx,10,C,1,Perform Churn Analytics,Tutorial Based,500000
+08xx74796xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx74796xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx74796xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx74796xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx74796xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx74796xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx74796xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx74796xxx,3,B,1,Perform Customer Segmentation,Tutorial Based,450000
+08xx74796xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx74796xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx74796xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx74796xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx74796xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx74796xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx74796xxx,5,C,1,Design AB Test Experimentation,Tutorial Based,300000
+08xx74796xxx,6,A,1,Perform Churn Analytics,Tutorial Based,450000
+08xx74796xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx74796xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx74796xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx74796xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx74796xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx74796xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx74796xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx74796xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx74796xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx74796xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx74796xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx74796xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx74796xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx74796xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx5050xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx5050xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx5050xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx5050xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx5050xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx5050xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx5050xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx5050xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx5050xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx5050xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx5050xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx5050xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx5050xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx5050xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx5050xxx,5,C,1,Design AB Test Experimentation,Tutorial Based,300000
+08xx5050xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx5050xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx5050xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx5050xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx5050xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx5050xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx5050xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx5050xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx5050xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx5050xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx5050xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx5050xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx5050xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx5050xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx5050xxx,10,C,1,Perform Churn Analytics,Tutorial Based,500000
+08xx31907xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx31907xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx31907xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx31907xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx31907xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx31907xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx31907xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx31907xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx31907xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx31907xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx31907xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx31907xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx31907xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx31907xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx31907xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx31907xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx31907xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx31907xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx31907xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx31907xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx31907xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx31907xxx,8,A,1,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx31907xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx31907xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx31907xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx31907xxx,9,B,1,Design AB Test Experimentation,Tutorial Based,550000
+08xx31907xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx31907xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx31907xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx31907xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx14623xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx14623xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx14623xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx14623xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx14623xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx14623xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx14623xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx14623xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx14623xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx14623xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx14623xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx14623xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx14623xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx14623xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx14623xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx14623xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx14623xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx14623xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx14623xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx14623xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx14623xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx14623xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx14623xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx14623xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx14623xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx14623xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx14623xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx14623xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx14623xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx14623xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx72981xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx72981xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx72981xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx72981xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx72981xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx72981xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx72981xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx72981xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx72981xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx72981xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx72981xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx72981xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx72981xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx72981xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx72981xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx72981xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx72981xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx72981xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx72981xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx72981xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx72981xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx72981xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx72981xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx72981xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx72981xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx72981xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx72981xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx72981xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx72981xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx72981xxx,10,C,1,Perform Churn Analytics,Tutorial Based,500000
+08xx17533xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx17533xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx17533xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx17533xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx17533xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx17533xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx17533xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx17533xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx17533xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx17533xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx17533xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx17533xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx17533xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx17533xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx17533xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx17533xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx17533xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx17533xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx17533xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx17533xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx17533xxx,7,C,1,Deploy Machine Learning Model,Tutorial Based,350000
+08xx17533xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx17533xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx17533xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx17533xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx17533xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx17533xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx17533xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx17533xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx17533xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx20666xxx,1,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx20666xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx20666xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx20666xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx20666xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx20666xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx20666xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx20666xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx20666xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx20666xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx20666xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx20666xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx20666xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx20666xxx,5,B,1,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx20666xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx20666xxx,6,A,1,Perform Churn Analytics,Tutorial Based,450000
+08xx20666xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx20666xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx20666xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx20666xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx20666xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx20666xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx20666xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx20666xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx20666xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx20666xxx,9,B,1,Design AB Test Experimentation,Tutorial Based,550000
+08xx20666xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx20666xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx20666xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx20666xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx94174xxx,1,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx94174xxx,1,B,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx94174xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx94174xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx94174xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx94174xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx94174xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx94174xxx,3,B,1,Perform Customer Segmentation,Tutorial Based,450000
+08xx94174xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx94174xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx94174xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx94174xxx,4,C,1,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx94174xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx94174xxx,5,B,1,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx94174xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx94174xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx94174xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx94174xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx94174xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx94174xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx94174xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx94174xxx,8,A,1,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx94174xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx94174xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx94174xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx94174xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx94174xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx94174xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx94174xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx94174xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx34563xxx,1,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx34563xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx34563xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx34563xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx34563xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx34563xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx34563xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx34563xxx,3,B,1,Perform Customer Segmentation,Tutorial Based,450000
+08xx34563xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx34563xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx34563xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx34563xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx34563xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx34563xxx,5,B,1,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx34563xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx34563xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx34563xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx34563xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx34563xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx34563xxx,7,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx34563xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx34563xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx34563xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx34563xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx34563xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx34563xxx,9,B,1,Design AB Test Experimentation,Tutorial Based,550000
+08xx34563xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx34563xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx34563xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx34563xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx40813xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx40813xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx40813xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx40813xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx40813xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx40813xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx40813xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx40813xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx40813xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx40813xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx40813xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx40813xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx40813xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx40813xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx40813xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx40813xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx40813xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx40813xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx40813xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx40813xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx40813xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx40813xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx40813xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx40813xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx40813xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx40813xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx40813xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx40813xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx40813xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx40813xxx,10,C,1,Perform Churn Analytics,Tutorial Based,500000
+08xx3080xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx3080xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx3080xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx3080xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx3080xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx3080xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx3080xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx3080xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx3080xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx3080xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx3080xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx3080xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx3080xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx3080xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx3080xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx3080xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx3080xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx3080xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx3080xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx3080xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx3080xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx3080xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx3080xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx3080xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx3080xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx3080xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx3080xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx3080xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx3080xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx3080xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx60573xxx,1,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx60573xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx60573xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx60573xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx60573xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx60573xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx60573xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx60573xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx60573xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx60573xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx60573xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx60573xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx60573xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx60573xxx,5,B,1,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx60573xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx60573xxx,6,A,1,Perform Churn Analytics,Tutorial Based,450000
+08xx60573xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx60573xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx60573xxx,7,A,1,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx60573xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx60573xxx,7,C,1,Deploy Machine Learning Model,Tutorial Based,350000
+08xx60573xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx60573xxx,8,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx60573xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx60573xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx60573xxx,9,B,1,Design AB Test Experimentation,Tutorial Based,550000
+08xx60573xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx60573xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx60573xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx60573xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx764311xxx,1,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx764311xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx764311xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx764311xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx764311xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx764311xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx764311xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx764311xxx,3,B,1,Perform Customer Segmentation,Tutorial Based,450000
+08xx764311xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx764311xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx764311xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx764311xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx764311xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx764311xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx764311xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx764311xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx764311xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx764311xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx764311xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx764311xxx,7,B,1,Design Data Pipeline,Mentoring Based,550000
+08xx764311xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx764311xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx764311xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx764311xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx764311xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx764311xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx764311xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx764311xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx764311xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx764311xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx1698xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx1698xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx1698xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx1698xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx1698xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx1698xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx1698xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx1698xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx1698xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx1698xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx1698xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx1698xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx1698xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx1698xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx1698xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx1698xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx1698xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx1698xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx1698xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx1698xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx1698xxx,7,C,1,Deploy Machine Learning Model,Tutorial Based,350000
+08xx1698xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx1698xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx1698xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx1698xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx1698xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx1698xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx1698xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx1698xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx1698xxx,10,C,1,Perform Churn Analytics,Tutorial Based,500000
+08xx91598xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx91598xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx91598xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx91598xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx91598xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx91598xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx91598xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx91598xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx91598xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx91598xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx91598xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx91598xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx91598xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx91598xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx91598xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx91598xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx91598xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx91598xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx91598xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx91598xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx91598xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx91598xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx91598xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx91598xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx91598xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx91598xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx91598xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx91598xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx91598xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx91598xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx81259xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx81259xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx81259xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx81259xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx81259xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx81259xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx81259xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx81259xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx81259xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx81259xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx81259xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx81259xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx81259xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx81259xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx81259xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx81259xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx81259xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx81259xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx81259xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx81259xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx81259xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx81259xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx81259xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx81259xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx81259xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx81259xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx81259xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx81259xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx81259xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx81259xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx56678xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx56678xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx56678xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx56678xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx56678xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx56678xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx56678xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx56678xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx56678xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx56678xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx56678xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx56678xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx56678xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx56678xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx56678xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx56678xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx56678xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx56678xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx56678xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx56678xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx56678xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx56678xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx56678xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx56678xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx56678xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx56678xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx56678xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx56678xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx56678xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx56678xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx27563xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx27563xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx27563xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx27563xxx,2,A,1,Create Analytics Dashboard,Tutorial Based,500000
+08xx27563xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx27563xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx27563xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx27563xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx27563xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx27563xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx27563xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx27563xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx27563xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx27563xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx27563xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx27563xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx27563xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx27563xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx27563xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx27563xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx27563xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx27563xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx27563xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx27563xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx27563xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx27563xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx27563xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx27563xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx27563xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx27563xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx88828xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx88828xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx88828xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx88828xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx88828xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx88828xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx88828xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx88828xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx88828xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx88828xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx88828xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx88828xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx88828xxx,5,A,1,Design Data Pipeline,Mentoring Based,400000
+08xx88828xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx88828xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx88828xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx88828xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx88828xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx88828xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx88828xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx88828xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx88828xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx88828xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx88828xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx88828xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx88828xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx88828xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx88828xxx,10,A,1,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx88828xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx88828xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx25488xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx25488xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx25488xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx25488xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx25488xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx25488xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx25488xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx25488xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx25488xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx25488xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx25488xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx25488xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx25488xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx25488xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx25488xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx25488xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx25488xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx25488xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx25488xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx25488xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx25488xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx25488xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx25488xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx25488xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx25488xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx25488xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx25488xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx25488xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx25488xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx25488xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx165007xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx165007xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx165007xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx165007xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx165007xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx165007xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx165007xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx165007xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx165007xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx165007xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx165007xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx165007xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx165007xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx165007xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx165007xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx165007xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx165007xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx165007xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx165007xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx165007xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx165007xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx165007xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx165007xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx165007xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx165007xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx165007xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx165007xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx165007xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx165007xxx,10,B,1,Perform Churn Analytics,Mentoring Based,450000
+08xx165007xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx30266xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx30266xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx30266xxx,1,C,1,Design AB Test Experimentation,Mentoring Based,300000
+08xx30266xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx30266xxx,2,B,1,Design Data Pipeline,Mentoring Based,300000
+08xx30266xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx30266xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx30266xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx30266xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx30266xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx30266xxx,4,B,1,Perform Price Optimation,Tutorial Based,350000
+08xx30266xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx30266xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx30266xxx,5,B,1,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx30266xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx30266xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx30266xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx30266xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx30266xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx30266xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx30266xxx,7,C,1,Deploy Machine Learning Model,Tutorial Based,350000
+08xx30266xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx30266xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx30266xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx30266xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx30266xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx30266xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx30266xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx30266xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx30266xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx17271xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx17271xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx17271xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx17271xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx17271xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx17271xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx17271xxx,3,A,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx17271xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx17271xxx,3,C,1,Design Data Pipeline,Mentoring Based,250000
+08xx17271xxx,4,A,1,Design AB Test Experimentation,Mentoring Based,500000
+08xx17271xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx17271xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx17271xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx17271xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx17271xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx17271xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx17271xxx,6,B,0,Perform Customer Segmentation,Mentoring Based,300000
+08xx17271xxx,6,C,1,Create Machine Learning Model,Tutorial Based,300000
+08xx17271xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx17271xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx17271xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx17271xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx17271xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx17271xxx,8,C,0,Create Machine Learning Model,Tutorial Based,550000
+08xx17271xxx,9,A,0,Create Analytics Dashboard,Mentoring Based,250000
+08xx17271xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx17271xxx,9,C,0,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx17271xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx17271xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx17271xxx,10,C,0,Perform Churn Analytics,Tutorial Based,500000
+08xx26725xxx,1,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx26725xxx,1,B,0,Perform Customer Segmentation,Mentoring Based,350000
+08xx26725xxx,1,C,0,Design AB Test Experimentation,Mentoring Based,300000
+08xx26725xxx,2,A,0,Create Analytics Dashboard,Tutorial Based,500000
+08xx26725xxx,2,B,0,Design Data Pipeline,Mentoring Based,300000
+08xx26725xxx,2,C,0,Perform Credit Scoring Analytics,Mentoring Based,550000
+08xx26725xxx,3,A,1,Perform Customer Segmentation,Mentoring Based,350000
+08xx26725xxx,3,B,0,Perform Customer Segmentation,Tutorial Based,450000
+08xx26725xxx,3,C,0,Design Data Pipeline,Mentoring Based,250000
+08xx26725xxx,4,A,0,Design AB Test Experimentation,Mentoring Based,500000
+08xx26725xxx,4,B,0,Perform Price Optimation,Tutorial Based,350000
+08xx26725xxx,4,C,0,Perform Credit Scoring Analytics,Mentoring Based,350000
+08xx26725xxx,5,A,0,Design Data Pipeline,Mentoring Based,400000
+08xx26725xxx,5,B,0,Perform Customer Lifetime Analysis,Tutorial Based,300000
+08xx26725xxx,5,C,0,Design AB Test Experimentation,Tutorial Based,300000
+08xx26725xxx,6,A,0,Perform Churn Analytics,Tutorial Based,450000
+08xx26725xxx,6,B,1,Perform Customer Segmentation,Mentoring Based,300000
+08xx26725xxx,6,C,0,Create Machine Learning Model,Tutorial Based,300000
+08xx26725xxx,7,A,0,Perform Customer Lifetime Analysis,Tutorial Based,500000
+08xx26725xxx,7,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx26725xxx,7,C,0,Deploy Machine Learning Model,Tutorial Based,350000
+08xx26725xxx,8,A,0,Perform Credit Scoring Analytics,Mentoring Based,300000
+08xx26725xxx,8,B,0,Design Data Pipeline,Mentoring Based,550000
+08xx26725xxx,8,C,1,Create Machine Learning Model,Tutorial Based,550000
+08xx26725xxx,9,A,1,Create Analytics Dashboard,Mentoring Based,250000
+08xx26725xxx,9,B,0,Design AB Test Experimentation,Tutorial Based,550000
+08xx26725xxx,9,C,1,Perform Customer Lifetime Analysis,Mentoring Based,350000
+08xx26725xxx,10,A,0,Perform Credit Scoring Analytics,Mentoring Based,400000
+08xx26725xxx,10,B,0,Perform Churn Analytics,Mentoring Based,450000
+08xx26725xxx,10,C,1,Perform Churn Analytics,Tutorial Based,500000
